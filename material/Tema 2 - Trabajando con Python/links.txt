@@ -1,0 +1,8 @@
+Cheat Sheets
+https://www.datacamp.com/community/data-science-cheatsheets
+
+Data Science Cheatsheets
+https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf
+
+List of Data Science Cheatsheets
+https://github.com/FavioVazquez/ds-cheatsheets
